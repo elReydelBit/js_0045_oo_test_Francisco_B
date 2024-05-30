@@ -1,0 +1,11 @@
+bun test v1.0.30 (1424a196)
+
+app.test.js:
+(pass) crea un objeto de la clase Figura [0.06ms]
+typeof  object
+(pass) crea un objeto de tipo Triangulo [0.06ms]
+
+ 2 pass
+ 0 fail
+ 5 expect() calls
+Ran 2 tests across 1 files. [7.00ms]
